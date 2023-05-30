@@ -9,6 +9,7 @@ def save_json(path, fileName, data):
     filePath = path + fileName
     with open(filePath, 'w') as fp:
         json.dump(data, fp)
+    fp.close()
 
 # COMMAND ----------
 
