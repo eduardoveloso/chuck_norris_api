@@ -19,6 +19,6 @@ https://api.chucknorris.io/#!
 
 # Tecnologias
 
-* Data Factory - orquestrados do pipeline
+* Data Factory - orquestrador do pipeline
 * Databricks - engine de processamento de dados
 * Blobstorage - datalake para armazenamento dados
